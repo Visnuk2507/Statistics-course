@@ -1,0 +1,47 @@
+\documentclass{article}
+
+% Language setting
+% Replace `english' with e.g. `spanish' to change the document language
+\usepackage[english]{babel}
+
+% Set page size and margins
+% Replace `letterpaper' with `a4paper' for UK/EU standard size
+\usepackage[letterpaper,top=2cm,bottom=2cm,left=3cm,right=3cm,marginparwidth=1.75cm]{geometry}
+
+% Useful packages
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage[colorlinks=true, allcolors=blue]{hyperref}
+\usepackage{pythontex}
+
+\title{Introduktion til klinisk praksis på hospital}
+\author{\textbf{Rapport
+Skrevet af:} Visnukaran Kirubakaran
+\noindent
+\\
+\\
+\textbf{Studienummer:} cdj104}
+\usepackage[utf8]{inputenc}
+\usepackage{array}
+\usepackage{geometry}
+\geometry{a4paper, margin=1in}
+
+\begin{document}
+\maketitle
+\noindent
+Helloo, and welcome to my first report in latex!dwdrfrfdee
+\noindent
+In the following, you will see my first import of pythoncode in a latex document:
+\noindent
+\begin{pycode}
+import sys
+import os
+sys.path.append(os.path.abspath("C:/Statistics course"))
+from python_code import add
+result = add(100,90)
+print(result)
+\end{pycode}
+\noindent
+The result of adding the numbers using the pythoncode is: \py{result}
+
+\end{document}
