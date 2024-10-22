@@ -132,10 +132,10 @@ All ETFs display several outliers, particularly VAW and IWN, which could be due 
     \toprule
          & Number of obs. & Sample mean & Sample variance & Std. dev. & Lower quartile (Q1) & Median (Q2) & Upper quartile (Q3) \\
     \midrule
-        AGG & 454.000000 & 0.000266 & 0.000036 & 0.005976 & -0.002973 & 0.000237 & 0.003893 \\
-        VAW & 454.000000 & 0.001794 & 0.001302 & 0.036083 & -0.016096 & 0.004798 & 0.019685 \\
-        IWN & 454.000000 & 0.001188 & 0.001025 & 0.032015 & -0.014305 & 0.003120 & 0.019056 \\
-        SPY & 454.000000 & 0.001360 & 0.000614 & 0.024786 & -0.011325 & 0.004216 & 0.014498 \\
+        AGG & 454.000000 & 0.000266 & 0.000036 & 0.005976 &  -0.002973  & 0.000237 & 0.003893 \\
+        VAW & 454.000000 & 0.001794 & 0.001302 & 0.036083 &  -0.016096  & 0.004798 & 0.019685 \\
+        IWN & 454.000000 & 0.001188 & 0.001025 & 0.032015 &  -0.014305  & 0.003120 & 0.019056 \\
+        SPY & 454.000000 & 0.001360 & 0.000614 & 0.024786 &  -0.011325  & 0.004216 & 0.014498 \\
     \bottomrule
     \end{tabularx}
     \caption{Summary sizes for the four ETFs}  % Add the table caption below the table
@@ -239,7 +239,7 @@ The following equation can be used:
 We can find the critical t value using simple python where we get the value 1.9652145681681557. 
 Now we can calculate the CI for the mean weekly return of AGG using the formular:
 The mean we found in section f) to be 0.000265757 and the sample standard deviation from section e) to be 0.00597584. Now we can calculate it for AGG.
-AGG: $\bar{x} \pm t_{1-\alpha/2} \cdot \frac{s}{\sqrt{n}} = 0.000265757 \pm 1.97 \cdot \frac{0.005976}{\sqrt{454}} = -0.0002867641 \ \text{og} \ 0.0008182781$.
+AGG: $\bar{x} \pm t_{1-\alpha/2} \cdot \frac{s}{\sqrt{n}} = 0.000265757 \pm 1.97 \cdot \frac{0.005976}{\sqrt{454}} = -0.0002867641 \ \text{and} \ 0.0008182781$.
 \noindent
 We can compute the corresponding intervals for the three remaining ETFs and fill it in a table:
 
