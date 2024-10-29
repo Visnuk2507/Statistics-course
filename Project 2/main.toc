@@ -1,0 +1,14 @@
+\babel@toc {english}{}\relax 
+\contentsline {section}{\numberline {1}Descriptive analysis}{2}{section.1}%
+\contentsline {subsubsection}{\textbf {a)} Description of the data material}{2}{section*.2}%
+\contentsline {subsubsection}{\textbf {b)} Density histogram of the weekly returns from the ETF AGG}{2}{section*.3}%
+\contentsline {subsubsection}{\textbf {c)} The weekly return over time for each of the four ETFs}{2}{section*.4}%
+\contentsline {subsubsection}{\textbf {d)} Box plot of the weekly returns by ETF}{2}{section*.5}%
+\contentsline {subsubsection}{\textbf {e)} Summary sizes for the four ETFs}{2}{section*.6}%
+\contentsline {section}{\numberline {2}Statistical analysis}{3}{section.2}%
+\contentsline {subsubsection}{\textbf {f)} Statistical models describing the weekly return for each of the four ETFs}{3}{section*.8}%
+\contentsline {subsubsection}{\textbf {g)} Confidence intervals}{3}{section*.9}%
+\contentsline {subsubsection}{\textbf {h)} Hypothesis test}{3}{section*.10}%
+\contentsline {subsubsection}{\textbf {i)} Hypothesis Test: Comparison of Weekly Returns from VAW and AGG}{3}{section*.11}%
+\contentsline {subsubsection}{\textbf {j)} The importance of statistical test}{3}{section*.12}%
+\contentsline {subsubsection}{\textbf {k)} Correlation between ETFs}{3}{section*.13}%

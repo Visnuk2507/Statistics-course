@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.9.7)  27 OCT 2024 19:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.9.7)  29 OCT 2024 14:47
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Statistics course/Projects/main.tex"
-(c:/Statistics course/Projects/main.tex
+**"c:/Statistics course/Project 2/main2.tex"
+(c:/Statistics course/Project 2/main2.tex
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-08-16>
 (rapport.cls
@@ -657,7 +657,7 @@ Package: filehook-2020 2022/10/25 v0.8b Hooks for input files
 \c@currfiledepth=\count355
 )
 \pytx@codefile=\write4
-\openout4 = `main.pytxcode'.
+\openout4 = `main2.pytxcode'.
 
 \c@pytx@FancyVerbLineTemp=\count356
 \c@pytx@py@default@default=\count357
@@ -700,15 +700,12 @@ Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
 \TX@cols=\count367
 \TX@ftn=\toks37
 )
-(main.aux
+(main2.aux
 
-LaTeX Warning: Label `fig:histogram_AGG' multiply defined.
-
-
-LaTeX Warning: Label `fig:histogram_AGG' multiply defined.
+LaTeX Warning: Label `fig:scatterplot_1' multiply defined.
 
 )
-\openout1 = `main.aux'.
+\openout1 = `main2.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
 LaTeX Font Info:    ... okay on input line 16.
@@ -766,9 +763,9 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
 Package hyperref Info: Link coloring OFF on input line 16.
- (main.out) (main.out)
+ (main2.out) (main2.out)
 \@outlinefile=\write5
-\openout5 = `main.out'.
+\openout5 = `main2.out'.
 
 
 *geometry* driver: auto-detecting
@@ -818,7 +815,8 @@ Package gensymb Info: Using \textohm for \ohm on input line 16.
 LaTeX Info: Redefining \micro on input line 16.
 Package gensymb Info: Using \textmu for \micro on input line 16.
 Package newfloat Info: `float' package detected.
-(pythontex-files-main/main.pytxmcr)
+No file pythontex-files-main2/main2.pytxmcr.
+Run PythonTeX to create it.
 Package newfloat Info: New float `listing' with options `fileext=lopytx' on inp
 ut line 16.
 \c@listing=\count374
@@ -826,11 +824,10 @@ Package newfloat Info: float type `listing'=4 on input line 16.
 Package tocbasic Info: setting babel extension for `lopytx' on input line 16.
 Package caption Info: New subtype `sublisting' on input line 16.
 \c@sublisting=\count375
- (pythontex-files-main/main.pytxpyg)
 \@nomenclaturefile=\write6
-\openout6 = `main.nlo'.
+\openout6 = `main2.nlo'.
 
-Package nomencl Info: Writing nomenclature file main.nlo on input line 31.
+Package nomencl Info: Writing nomenclature file main2.nlo on input line 31.
 <logos/DTU_Logo_Roed.jpg, id=55, 311.1625pt x 388.45125pt>
 File: logos/DTU_Logo_Roed.jpg Graphic file (type jpg)
 <use logos/DTU_Logo_Roed.jpg>
@@ -841,9 +838,9 @@ Package pdftex.def Info: logos/DTU_Logo_Roed.jpg  used on input line 32.
 [1
 
 {C:/Users/Visnu/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./logos/DTU_
-Logo_Roed.jpg>] (main.toc)
+Logo_Roed.jpg>] (main2.toc)
 \tf@toc=\write7
-\openout7 = `main.toc'.
+\openout7 = `main2.toc'.
 
 
 
@@ -862,173 +859,58 @@ Package hyperref Warning: Difference (2) between bookmark levels is greater
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
 (hyperref)                be the same. Added a new anchor on input line 37.
 
-<histogram_with_normal_curve.png, id=87, 406.1574pt x 314.8563pt>
-File: histogram_with_normal_curve.png Graphic file (type png)
-<use histogram_with_normal_curve.png>
-Package pdftex.def Info: histogram_with_normal_curve.png  used on input line 52
-.
-(pdftex.def)             Requested size: 341.43307pt x 264.67926pt.
+<Figures/scatter_plot_1.png, id=87, 722.7pt x 433.62pt>
+File: Figures/scatter_plot_1.png Graphic file (type png)
+<use Figures/scatter_plot_1.png>
+Package pdftex.def Info: Figures/scatter_plot_1.png  used on input line 63.
+(pdftex.def)             Requested size: 341.43307pt x 204.86006pt.
+<Figures/scatter_plot_2.png, id=89, 722.7pt x 433.62pt>
+File: Figures/scatter_plot_2.png Graphic file (type png)
+<use Figures/scatter_plot_2.png>
+Package pdftex.def Info: Figures/scatter_plot_2.png  used on input line 73.
+(pdftex.def)             Requested size: 341.43307pt x 204.86006pt.
 
 
-[2 <./histogram_with_normal_curve.png>]
-<figure_2_AGG_development.png, id=96, 424.2249pt x 315.579pt>
-File: figure_2_AGG_development.png Graphic file (type png)
-<use figure_2_AGG_development.png>
-Package pdftex.def Info: figure_2_AGG_development.png  used on input line 80.
-(pdftex.def)             Requested size: 318.66948pt x 237.05925pt.
-<figure_VAW_development.png, id=97, 424.2249pt x 315.579pt>
-File: figure_VAW_development.png Graphic file (type png)
-<use figure_VAW_development.png>
-Package pdftex.def Info: figure_VAW_development.png  used on input line 88.
-(pdftex.def)             Requested size: 318.66948pt x 237.05925pt.
+[2 <./Figures/scatter_plot_1.png>]
+<logbmi_hist_box.png, id=99, 859.2903pt x 353.6412pt>
+File: logbmi_hist_box.png Graphic file (type png)
+<use logbmi_hist_box.png>
+Package pdftex.def Info: logbmi_hist_box.png  used on input line 83.
+(pdftex.def)             Requested size: 341.43307pt x 140.51503pt.
+<age_hist_box.png, id=100, 859.2903pt x 353.6412pt>
+File: age_hist_box.png Graphic file (type png)
+<use age_hist_box.png>
+Package pdftex.def Info: age_hist_box.png  used on input line 93.
+(pdftex.def)             Requested size: 341.43307pt x 140.51503pt.
 
 
-[3 <./figure_2_AGG_development.png>]
-<figure_IWN_development.png, id=105, 424.2249pt x 315.579pt>
-File: figure_IWN_development.png Graphic file (type png)
-<use figure_IWN_development.png>
-Package pdftex.def Info: figure_IWN_development.png  used on input line 96.
-(pdftex.def)             Requested size: 318.66948pt x 237.05925pt.
-<figure_SPY_development.png, id=106, 424.2249pt x 315.579pt>
-File: figure_SPY_development.png Graphic file (type png)
-<use figure_SPY_development.png>
-Package pdftex.def Info: figure_SPY_development.png  used on input line 104.
-(pdftex.def)             Requested size: 318.66948pt x 237.05925pt.
+[3 <./Figures/scatter_plot_2.png> <./logbmi_hist_box.png> <./age_hist_box.png>]
+<fastfood_hist_box.png, id=111, 859.2903pt x 353.6412pt>
+File: fastfood_hist_box.png Graphic file (type png)
+<use fastfood_hist_box.png>
+Package pdftex.def Info: fastfood_hist_box.png  used on input line 103.
+(pdftex.def)             Requested size: 341.43307pt x 140.51503pt.
+<summary_statistics.png, id=112, 407.5225pt x 213.79875pt>
+File: summary_statistics.png Graphic file (type png)
+<use summary_statistics.png>
+Package pdftex.def Info: summary_statistics.png  used on input line 113.
+(pdftex.def)             Requested size: 364.19667pt x 191.07628pt.
 
 
-[4 <./figure_VAW_development.png> <./figure_IWN_development.png>]
-<figure_6_boxplot_of_returns.png, id=115, 625.8582pt x 378.4539pt>
-File: figure_6_boxplot_of_returns.png Graphic file (type png)
-<use figure_6_boxplot_of_returns.png>
-Package pdftex.def Info: figure_6_boxplot_of_returns.png  used on input line 11
-4.
-(pdftex.def)             Requested size: 341.43307pt x 206.46407pt.
+[4 <./fastfood_hist_box.png> <./summary_statistics.png (PNG copy)>]
 
-
-[5 <./figure_SPY_development.png> <./figure_6_boxplot_of_returns.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 140--140
-[]|\T1/cmr/m/n/12 Number
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 140--140
-[]|\T1/cmr/m/n/12 Sample
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 140--140
-[]|\T1/cmr/m/n/12 Sample
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 140--140
-[]|\T1/cmr/m/n/12 Lower
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 140--140
-\T1/cmr/m/n/12 quar-tile
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 140--140
-[]|\T1/cmr/m/n/12 Median
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 140--140
-[]|\T1/cmr/m/n/12 Upper
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 140--140
-\T1/cmr/m/n/12 quar-tile
- []
-
-
-Overfull \hbox (8.67189pt too wide) in paragraph at lines 140--140
-[]|\T1/cmr/m/n/12 454.000000| 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 140--140
-[]|\T1/cmr/m/n/12 -
- []
-
-
-Overfull \hbox (8.67189pt too wide) in paragraph at lines 140--140
-[]|\T1/cmr/m/n/12 454.000000| 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 140--140
-[]|\T1/cmr/m/n/12 -
- []
-
-
-Overfull \hbox (8.67189pt too wide) in paragraph at lines 140--140
-[]|\T1/cmr/m/n/12 454.000000| 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 140--140
-[]|\T1/cmr/m/n/12 -
- []
-
-
-Overfull \hbox (8.67189pt too wide) in paragraph at lines 140--140
-[]|\T1/cmr/m/n/12 454.000000| 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 140--140
-[]|\T1/cmr/m/n/12 -
- []
-
-
-
-[6]
+[5]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 157.
+(hyperref)                than one, level fixed on input line 150.
 
 
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
-(hyperref)                be the same. Added a new anchor on input line 157.
+(hyperref)                be the same. Added a new anchor on input line 150.
 
 
 
-[7]
-<figure_7_QQ_plots.png, id=142, 859.2903pt x 1148.6112pt>
-File: figure_7_QQ_plots.png Graphic file (type png)
-<use figure_7_QQ_plots.png>
-Package pdftex.def Info: figure_7_QQ_plots.png  used on input line 207.
-(pdftex.def)             Requested size: 386.96027pt x 517.23833pt.
-
-
-[8 <./figure_7_QQ_plots.png>]
-Overfull \hbox (23.57791pt too wide) in paragraph at lines 237--245
-\T1/cmr/m/n/12 We can find the crit-i-cal t value us-ing sim-ple python where w
-e get the value 1.9652145681681557.
- []
-
-
-
-[9]
-
-[10]
-
-[11]
-<figure_8_scatter_plot.png, id=171, 513.8397pt x 393.6306pt>
-File: figure_8_scatter_plot.png Graphic file (type png)
-<use figure_8_scatter_plot.png>
-Package pdftex.def Info: figure_8_scatter_plot.png  used on input line 412.
-(pdftex.def)             Requested size: 341.43307pt x 261.56886pt.
-
-
-[12]
-
-[13 <./figure_8_scatter_plot.png>] (main.aux)
+[6] (main2.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-08-16>
@@ -1037,46 +919,32 @@ L3 programming layer <2024-08-16>
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 79201DEBBA382E38EF1F8B98F5090BF1;3516.
+Package rerunfilecheck Info: File `main2.out' has not changed.
+(rerunfilecheck)             Checksum: D5E810647F6699EAA5E983AD2C6C4135;3499.
  ) 
 Here is how much of TeX's memory you used:
- 23078 strings out of 473899
- 457958 string characters out of 5726501
- 1938960 words of memory out of 5000000
- 45573 multiletter control sequences out of 15000+600000
- 575119 words of font info for 68 fonts, out of 8000000 for 9000
+ 22826 strings out of 473899
+ 453859 string characters out of 5726501
+ 1934960 words of memory out of 5000000
+ 45345 multiletter control sequences out of 15000+600000
+ 573589 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 125i,12n,121p,625b,995s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\Visnu\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
-1200.pk> <C:\Users\Visnu\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
-0\ecrm0600.pk> <C:\Users\Visnu\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec
-/dpi600\ecrm0800.pk> <C:\Users\Visnu\AppData\Local\MiKTeX\fonts/pk/ljfour/jknap
-pen/ec/dpi600\ecrm1095.pk> <C:\Users\Visnu\AppData\Local\MiKTeX\fonts/pk/ljfour
-/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\Visnu\AppData\Local\MiKTeX\fonts/pk/
-ljfour/jknappen/ec/dpi600\ecbx1728.pk> <C:\Users\Visnu\AppData\Local\MiKTeX\fon
-ts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\Visnu\AppData\Local\MiKT
-eX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsl1200.pk> <C:\Users\Visnu\AppData\Loca
-l\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1440.pk> <C:\Users\Visnu\AppDat
-a\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\eccc1440.pk> <C:\Users\Visnu\
-AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbi1440.pk> <C:\Users\
-Visnu\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2488.pk> <C:\
-Users\Visnu\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecxc2074.pk
-><C:/Users/Visnu/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/c
-mex10.pfb><C:/Users/Visnu/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsf
-onts/cmextra/cmex8.pfb><C:/Users/Visnu/AppData/Local/Programs/MiKTeX/fonts/type
-1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Visnu/AppData/Local/Programs/MiKTeX/f
-onts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/Visnu/AppData/Local/Programs/
-MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Visnu/AppData/Local/P
-rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Visnu/AppData
-/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/Visnu/
-AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users
-/Visnu/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-<C:/Users/Visnu/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cm
-sy8.pfb>
-Output written on main.pdf (14 pages, 1861451 bytes).
+ 125i,12n,121p,548b,995s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\Visnu\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm
+1095.pk> <C:\Users\Visnu\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
+0\tcrm1200.pk> <C:\Users\Visnu\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec
+/dpi600\ecbx1200.pk> <C:\Users\Visnu\AppData\Local\MiKTeX\fonts/pk/ljfour/jknap
+pen/ec/dpi600\ecbx1728.pk> <C:\Users\Visnu\AppData\Local\MiKTeX\fonts/pk/ljfour
+/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\Visnu\AppData\Local\MiKTeX\fonts/pk/
+ljfour/jknappen/ec/dpi600\ecsl1200.pk> <C:\Users\Visnu\AppData\Local\MiKTeX\fon
+ts/pk/ljfour/jknappen/ec/dpi600\ecrm1440.pk> <C:\Users\Visnu\AppData\Local\MiKT
+eX\fonts/pk/ljfour/jknappen/ec/dpi600\eccc1440.pk> <C:\Users\Visnu\AppData\Loca
+l\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbi1440.pk> <C:\Users\Visnu\AppDat
+a\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2488.pk> <C:\Users\Visnu\
+AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecxc2074.pk>
+Output written on main2.pdf (7 pages, 544275 bytes).
 PDF statistics:
- 547 PDF objects out of 1000 (max. 8388607)
- 43 named destinations out of 1000 (max. 500000)
- 150 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 410 PDF objects out of 1000 (max. 8388607)
+ 29 named destinations out of 1000 (max. 500000)
+ 140 words of extra memory for PDF output out of 10000 (max. 10000000)
 
