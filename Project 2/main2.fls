@@ -328,9 +328,94 @@ INPUT .\summary_statistics.png
 INPUT .\summary_statistics.png
 INPUT .\summary_statistics.png
 INPUT .\summary_statistics.png
+INPUT .\Figures\Estimation of parameters in the model.png
+INPUT .\Figures\Estimation of parameters in the model.png
+INPUT .\Figures\Estimation of parameters in the model.png
+INPUT .\Figures\Estimation of parameters in the model.png
+INPUT .\Figures\Estimation of parameters in the model.png
+INPUT .\Figures\Estimation of parameters in the model.png
+INPUT .\Figures\Estimation of parameters in the model.png
+INPUT .\Figures\Estimated std's.png
+INPUT .\Figures\Estimated std's.png
+INPUT .\Figures\Estimated std's.png
+INPUT .\Figures\Estimated std's.png
+INPUT .\Figures\Estimated std's.png
+INPUT .\Figures\Estimated std's.png
+INPUT .\Figures\Estimated std's.png
+INPUT .\fitted_values_vs_log_bmi.png
+INPUT .\fitted_values_vs_log_bmi.png
+INPUT .\fitted_values_vs_log_bmi.png
+INPUT .\fitted_values_vs_log_bmi.png
+INPUT .\fitted_values_vs_log_bmi.png
+INPUT .\fitted_values_vs_log_bmi.png
+INPUT .\fitted_values_vs_log_bmi.png
+INPUT .\residuals_vs_log_bmi.png
+INPUT .\residuals_vs_log_bmi.png
+INPUT .\residuals_vs_log_bmi.png
+INPUT .\residuals_vs_log_bmi.png
+INPUT .\residuals_vs_log_bmi.png
+INPUT .\residuals_vs_log_bmi.png
+INPUT .\residuals_vs_log_bmi.png
+INPUT .\residuals_vs_age.png
+INPUT .\residuals_vs_age.png
+INPUT .\residuals_vs_age.png
+INPUT .\residuals_vs_age.png
+INPUT .\residuals_vs_age.png
+INPUT .\residuals_vs_age.png
+INPUT .\residuals_vs_age.png
+INPUT .\residuals_vs_fastfood.png
+INPUT .\residuals_vs_fastfood.png
+INPUT .\residuals_vs_fastfood.png
+INPUT .\residuals_vs_fastfood.png
+INPUT .\residuals_vs_fastfood.png
+INPUT .\residuals_vs_fastfood.png
+INPUT .\residuals_vs_fastfood.png
+INPUT .\residuals_vs_fitted_values.png
+INPUT .\residuals_vs_fitted_values.png
+INPUT .\residuals_vs_fitted_values.png
+INPUT .\residuals_vs_fitted_values.png
+INPUT .\residuals_vs_fitted_values.png
+INPUT .\residuals_vs_fitted_values.png
+INPUT .\residuals_vs_fitted_values.png
+INPUT .\qq_plot_resid.png
+INPUT .\qq_plot_resid.png
+INPUT .\qq_plot_resid.png
+INPUT .\qq_plot_resid.png
+INPUT .\qq_plot_resid.png
+INPUT .\qq_plot_resid.png
+INPUT .\qq_plot_resid.png
+INPUT .\Figures\t_critical.png
+INPUT .\Figures\t_critical.png
+INPUT .\Figures\t_critical.png
+INPUT .\Figures\t_critical.png
+INPUT .\Figures\t_critical.png
+INPUT .\Figures\t_critical.png
+INPUT .\Figures\t_critical.png
+INPUT .\Figures\confidence_interval.png
+INPUT .\Figures\confidence_interval.png
+INPUT .\Figures\confidence_interval.png
+INPUT .\Figures\confidence_interval.png
+INPUT .\Figures\confidence_interval.png
+INPUT .\Figures\confidence_interval.png
+INPUT .\Figures\confidence_interval.png
+INPUT C:\Users\Visnu\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecrm0800.tfm
+INPUT C:\Users\Visnu\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecrm0600.tfm
+INPUT C:\Users\Visnu\AppData\Local\Programs\MiKTeX\tex\latex\base\t1cmtt.fd
+INPUT C:\Users\Visnu\AppData\Local\Programs\MiKTeX\tex\latex\base\t1cmtt.fd
+INPUT C:\Users\Visnu\AppData\Local\Programs\MiKTeX\tex\latex\base\t1cmtt.fd
+INPUT C:\Users\Visnu\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ectt1200.tfm
+INPUT .\Figures\Table.png
+INPUT .\Figures\Table.png
+INPUT .\Figures\Table.png
+INPUT .\Figures\Table.png
+INPUT .\Figures\Table.png
+INPUT .\Figures\Table.png
+INPUT .\Figures\Table.png
 INPUT main2.aux
 INPUT .\main2.out
 INPUT .\main2.out
+INPUT C:\Users\Visnu\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ectt1200.pk
+INPUT C:\Users\Visnu\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ectt1200.pk
 INPUT C:\Users\Visnu\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1095.pk
 INPUT C:\Users\Visnu\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1095.pk
 INPUT C:\Users\Visnu\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1200.pk
@@ -353,3 +438,17 @@ INPUT C:\Users\Visnu\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecb
 INPUT C:\Users\Visnu\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx2488.pk
 INPUT C:\Users\Visnu\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecxc2074.pk
 INPUT C:\Users\Visnu\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecxc2074.pk
+INPUT C:\Users\Visnu\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi12.pfb
+INPUT C:\Users\Visnu\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi12.pfb
+INPUT C:\Users\Visnu\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi8.pfb
+INPUT C:\Users\Visnu\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi8.pfb
+INPUT C:\Users\Visnu\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
+INPUT C:\Users\Visnu\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
+INPUT C:\Users\Visnu\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr6.pfb
+INPUT C:\Users\Visnu\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr6.pfb
+INPUT C:\Users\Visnu\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr8.pfb
+INPUT C:\Users\Visnu\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr8.pfb
+INPUT C:\Users\Visnu\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT C:\Users\Visnu\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT C:\Users\Visnu\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy8.pfb
+INPUT C:\Users\Visnu\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy8.pfb

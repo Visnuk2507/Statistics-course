@@ -1,14 +1,10 @@
 \babel@toc {english}{}\relax 
 \contentsline {section}{\numberline {1}Descriptive analysis}{2}{section.1}%
 \contentsline {subsubsection}{\textbf {a)} Description of the data material}{2}{section*.2}%
-\contentsline {subsubsection}{\textbf {b)} Density histogram of the weekly returns from the ETF AGG}{4}{figure.caption.9}%
-\contentsline {subsubsection}{\textbf {c)} The weekly return over time for each of the four ETFs}{5}{section*.10}%
-\contentsline {subsubsection}{\textbf {d)} Box plot of the weekly returns by ETF}{5}{section*.11}%
-\contentsline {subsubsection}{\textbf {e)} Summary sizes for the four ETFs}{5}{section*.12}%
-\contentsline {section}{\numberline {2}Statistical analysis}{6}{section.2}%
-\contentsline {subsubsection}{\textbf {f)} Statistical models describing the weekly return for each of the four ETFs}{6}{section*.14}%
-\contentsline {subsubsection}{\textbf {g)} Confidence intervals}{6}{section*.15}%
-\contentsline {subsubsection}{\textbf {h)} Hypothesis test}{6}{section*.16}%
-\contentsline {subsubsection}{\textbf {i)} Hypothesis Test: Comparison of Weekly Returns from VAW and AGG}{6}{section*.17}%
-\contentsline {subsubsection}{\textbf {j)} The importance of statistical test}{6}{section*.18}%
-\contentsline {subsubsection}{\textbf {k)} Correlation between ETFs}{6}{section*.19}%
+\contentsline {subsubsection}{\textbf {b)} Multiple linear regression model}{4}{figure.caption.9}%
+\contentsline {subsubsection}{\textbf {c)} Estimating the parameters of the model.}{5}{section*.10}%
+\contentsline {subsubsection}{\textbf {d)} Model validation}{6}{figure.caption.13}%
+\contentsline {subsubsection}{\textbf {e)} 95 procent confidence interval for the age coefficient}{10}{figure.caption.20}%
+\contentsline {subsubsection}{\textbf {f)} The corresponding hypothesis}{12}{figure.caption.23}%
+\contentsline {subsubsection}{\textbf {g)} Backward selection}{12}{section*.24}%
+\contentsline {subsubsection}{\textbf {h)} Prediction}{13}{section*.25}%

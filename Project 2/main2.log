@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.9.7)  29 OCT 2024 14:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.9.7)  3 NOV 2024 21:19
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -828,7 +828,7 @@ Package caption Info: New subtype `sublisting' on input line 16.
 \openout6 = `main2.nlo'.
 
 Package nomencl Info: Writing nomenclature file main2.nlo on input line 31.
-<logos/DTU_Logo_Roed.jpg, id=55, 311.1625pt x 388.45125pt>
+<logos/DTU_Logo_Roed.jpg, id=39, 311.1625pt x 388.45125pt>
 File: logos/DTU_Logo_Roed.jpg Graphic file (type jpg)
 <use logos/DTU_Logo_Roed.jpg>
 Package pdftex.def Info: logos/DTU_Logo_Roed.jpg  used on input line 32.
@@ -859,12 +859,12 @@ Package hyperref Warning: Difference (2) between bookmark levels is greater
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
 (hyperref)                be the same. Added a new anchor on input line 37.
 
-<Figures/scatter_plot_1.png, id=87, 722.7pt x 433.62pt>
+<Figures/scatter_plot_1.png, id=67, 722.7pt x 433.62pt>
 File: Figures/scatter_plot_1.png Graphic file (type png)
 <use Figures/scatter_plot_1.png>
 Package pdftex.def Info: Figures/scatter_plot_1.png  used on input line 63.
 (pdftex.def)             Requested size: 341.43307pt x 204.86006pt.
-<Figures/scatter_plot_2.png, id=89, 722.7pt x 433.62pt>
+<Figures/scatter_plot_2.png, id=69, 722.7pt x 433.62pt>
 File: Figures/scatter_plot_2.png Graphic file (type png)
 <use Figures/scatter_plot_2.png>
 Package pdftex.def Info: Figures/scatter_plot_2.png  used on input line 73.
@@ -872,12 +872,12 @@ Package pdftex.def Info: Figures/scatter_plot_2.png  used on input line 73.
 
 
 [2 <./Figures/scatter_plot_1.png>]
-<logbmi_hist_box.png, id=99, 859.2903pt x 353.6412pt>
+<logbmi_hist_box.png, id=79, 859.2903pt x 353.6412pt>
 File: logbmi_hist_box.png Graphic file (type png)
 <use logbmi_hist_box.png>
 Package pdftex.def Info: logbmi_hist_box.png  used on input line 83.
 (pdftex.def)             Requested size: 341.43307pt x 140.51503pt.
-<age_hist_box.png, id=100, 859.2903pt x 353.6412pt>
+<age_hist_box.png, id=80, 859.2903pt x 353.6412pt>
 File: age_hist_box.png Graphic file (type png)
 <use age_hist_box.png>
 Package pdftex.def Info: age_hist_box.png  used on input line 93.
@@ -885,12 +885,12 @@ Package pdftex.def Info: age_hist_box.png  used on input line 93.
 
 
 [3 <./Figures/scatter_plot_2.png> <./logbmi_hist_box.png> <./age_hist_box.png>]
-<fastfood_hist_box.png, id=111, 859.2903pt x 353.6412pt>
+<fastfood_hist_box.png, id=91, 859.2903pt x 353.6412pt>
 File: fastfood_hist_box.png Graphic file (type png)
 <use fastfood_hist_box.png>
 Package pdftex.def Info: fastfood_hist_box.png  used on input line 103.
 (pdftex.def)             Requested size: 341.43307pt x 140.51503pt.
-<summary_statistics.png, id=112, 407.5225pt x 213.79875pt>
+<summary_statistics.png, id=92, 407.5225pt x 213.79875pt>
 File: summary_statistics.png Graphic file (type png)
 <use summary_statistics.png>
 Package pdftex.def Info: summary_statistics.png  used on input line 113.
@@ -898,19 +898,99 @@ Package pdftex.def Info: summary_statistics.png  used on input line 113.
 
 
 [4 <./fastfood_hist_box.png> <./summary_statistics.png (PNG copy)>]
+<Figures/Estimation of parameters in the model.png, id=99, 262.581pt x 156.585p
+t>
+File: Figures/Estimation of parameters in the model.png Graphic file (type png)
 
-[5]
+<use Figures/Estimation of parameters in the model.png>
+Package pdftex.def Info: Figures/Estimation of parameters in the model.png  use
+d on input line 152.
+(pdftex.def)             Requested size: 364.19667pt x 217.19615pt.
+<Figures/Estimated std's.png, id=100, 120.45pt x 40.35075pt>
+File: Figures/Estimated std's.png Graphic file (type png)
+<use Figures/Estimated std's.png>
+Package pdftex.def Info: Figures/Estimated std's.png  used on input line 165.
+(pdftex.def)             Requested size: 364.19667pt x 122.01797pt.
 
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 150.
+
+[5 <./Figures/Estimation of parameters in the model.png>]
+<fitted_values_vs_log_bmi.png, id=113, 462.528pt x 346.896pt>
+File: fitted_values_vs_log_bmi.png Graphic file (type png)
+<use fitted_values_vs_log_bmi.png>
+Package pdftex.def Info: fitted_values_vs_log_bmi.png  used on input line 194.
+(pdftex.def)             Requested size: 341.43307pt x 256.08499pt.
 
 
-Package hyperref Warning: The anchor of a bookmark and its parent's must not
-(hyperref)                be the same. Added a new anchor on input line 150.
+[6 <./Figures/Estimated std's.png>]
+<residuals_vs_log_bmi.png, id=122, 462.528pt x 346.896pt>
+File: residuals_vs_log_bmi.png Graphic file (type png)
+<use residuals_vs_log_bmi.png>
+Package pdftex.def Info: residuals_vs_log_bmi.png  used on input line 204.
+(pdftex.def)             Requested size: 341.43307pt x 256.08499pt.
 
 
+[7 <./fitted_values_vs_log_bmi.png> <./residuals_vs_log_bmi.png>]
+<residuals_vs_age.png, id=132, 462.528pt x 346.896pt>
+File: residuals_vs_age.png Graphic file (type png)
+<use residuals_vs_age.png>
+Package pdftex.def Info: residuals_vs_age.png  used on input line 214.
+(pdftex.def)             Requested size: 341.43307pt x 256.08499pt.
+<residuals_vs_fastfood.png, id=134, 462.528pt x 346.896pt>
+File: residuals_vs_fastfood.png Graphic file (type png)
+<use residuals_vs_fastfood.png>
+Package pdftex.def Info: residuals_vs_fastfood.png  used on input line 224.
+(pdftex.def)             Requested size: 341.43307pt x 256.08499pt.
 
-[6] (main2.aux)
+
+[8 <./residuals_vs_age.png> <./residuals_vs_fastfood.png>]
+<residuals_vs_fitted_values.png, id=144, 462.528pt x 346.896pt>
+File: residuals_vs_fitted_values.png Graphic file (type png)
+<use residuals_vs_fitted_values.png>
+Package pdftex.def Info: residuals_vs_fitted_values.png  used on input line 234
+.
+(pdftex.def)             Requested size: 341.43307pt x 256.08499pt.
+<qq_plot_resid.png, id=146, 462.528pt x 346.896pt>
+File: qq_plot_resid.png Graphic file (type png)
+<use qq_plot_resid.png>
+Package pdftex.def Info: qq_plot_resid.png  used on input line 244.
+(pdftex.def)             Requested size: 341.43307pt x 256.08499pt.
+
+
+[9 <./residuals_vs_fitted_values.png>]
+<Figures/t_critical.png, id=154, 226.446pt x 84.91725pt>
+File: Figures/t_critical.png Graphic file (type png)
+<use Figures/t_critical.png>
+Package pdftex.def Info: Figures/t_critical.png  used on input line 275.
+(pdftex.def)             Requested size: 341.43307pt x 128.04155pt.
+
+
+[10 <./qq_plot_resid.png>]
+<Figures/confidence_interval.png, id=162, 304.13625pt x 160.80075pt>
+File: Figures/confidence_interval.png Graphic file (type png)
+<use Figures/confidence_interval.png>
+Package pdftex.def Info: Figures/confidence_interval.png  used on input line 29
+2.
+(pdftex.def)             Requested size: 364.19667pt x 192.55997pt.
+
+
+[11 <./Figures/t_critical.png> <./Figures/confidence_interval.png>]
+
+[12]
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 3
+87.
+ (C:\Users\Visnu\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.fd
+File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
+)
+<Figures/Table.png, id=176, 259.56975pt x 150.5625pt>
+File: Figures/Table.png Graphic file (type png)
+<use Figures/Table.png>
+Package pdftex.def Info: Figures/Table.png  used on input line 394.
+(pdftex.def)             Requested size: 318.66948pt x 184.84615pt.
+
+
+[13 <./Figures/Table.png>]
+
+[14] (main2.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-08-16>
@@ -920,31 +1000,40 @@ L3 programming layer <2024-08-16>
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `main2.out' has not changed.
-(rerunfilecheck)             Checksum: D5E810647F6699EAA5E983AD2C6C4135;3499.
+(rerunfilecheck)             Checksum: E51308C6D8CBBC754780846AB75B2CB2;1982.
  ) 
 Here is how much of TeX's memory you used:
- 22826 strings out of 473899
- 453859 string characters out of 5726501
- 1934960 words of memory out of 5000000
- 45345 multiletter control sequences out of 15000+600000
- 573589 words of font info for 66 fonts, out of 8000000 for 9000
+ 22954 strings out of 473899
+ 457670 string characters out of 5726501
+ 1935960 words of memory out of 5000000
+ 45454 multiletter control sequences out of 15000+600000
+ 575432 words of font info for 69 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 125i,12n,121p,548b,995s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\Visnu\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm
-1095.pk> <C:\Users\Visnu\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
-0\tcrm1200.pk> <C:\Users\Visnu\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec
-/dpi600\ecbx1200.pk> <C:\Users\Visnu\AppData\Local\MiKTeX\fonts/pk/ljfour/jknap
-pen/ec/dpi600\ecbx1728.pk> <C:\Users\Visnu\AppData\Local\MiKTeX\fonts/pk/ljfour
-/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\Visnu\AppData\Local\MiKTeX\fonts/pk/
-ljfour/jknappen/ec/dpi600\ecsl1200.pk> <C:\Users\Visnu\AppData\Local\MiKTeX\fon
-ts/pk/ljfour/jknappen/ec/dpi600\ecrm1440.pk> <C:\Users\Visnu\AppData\Local\MiKT
-eX\fonts/pk/ljfour/jknappen/ec/dpi600\eccc1440.pk> <C:\Users\Visnu\AppData\Loca
-l\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbi1440.pk> <C:\Users\Visnu\AppDat
-a\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2488.pk> <C:\Users\Visnu\
-AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecxc2074.pk>
-Output written on main2.pdf (7 pages, 544275 bytes).
+ 125i,12n,121p,569b,995s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\Visnu\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt
+1200.pk> <C:\Users\Visnu\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
+0\ecrm1095.pk> <C:\Users\Visnu\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec
+/dpi600\tcrm1200.pk> <C:\Users\Visnu\AppData\Local\MiKTeX\fonts/pk/ljfour/jknap
+pen/ec/dpi600\ecbx1200.pk> <C:\Users\Visnu\AppData\Local\MiKTeX\fonts/pk/ljfour
+/jknappen/ec/dpi600\ecbx1728.pk> <C:\Users\Visnu\AppData\Local\MiKTeX\fonts/pk/
+ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\Visnu\AppData\Local\MiKTeX\fon
+ts/pk/ljfour/jknappen/ec/dpi600\ecsl1200.pk> <C:\Users\Visnu\AppData\Local\MiKT
+eX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1440.pk> <C:\Users\Visnu\AppData\Loca
+l\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\eccc1440.pk> <C:\Users\Visnu\AppDat
+a\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbi1440.pk> <C:\Users\Visnu\
+AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2488.pk> <C:\Users\
+Visnu\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecxc2074.pk><C:/U
+sers/Visnu/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.
+pfb><C:/Users/Visnu/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/c
+m/cmmi8.pfb><C:/Users/Visnu/AppData/Local/Programs/MiKTeX/fonts/type1/public/am
+sfonts/cm/cmr12.pfb><C:/Users/Visnu/AppData/Local/Programs/MiKTeX/fonts/type1/p
+ublic/amsfonts/cm/cmr6.pfb><C:/Users/Visnu/AppData/Local/Programs/MiKTeX/fonts/
+type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Visnu/AppData/Local/Programs/MiKTeX
+/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Visnu/AppData/Local/Progra
+ms/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on main2.pdf (15 pages, 794907 bytes).
 PDF statistics:
- 410 PDF objects out of 1000 (max. 8388607)
- 29 named destinations out of 1000 (max. 500000)
- 140 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 527 PDF objects out of 1000 (max. 8388607)
+ 42 named destinations out of 1000 (max. 500000)
+ 163 words of extra memory for PDF output out of 10000 (max. 10000000)
 
